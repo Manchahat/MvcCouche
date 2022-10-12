@@ -8,3 +8,6 @@ test the application
 Added  a new page in view called aboutus and connected it in the home controller . 
 http://localhost:59772/Home/Aboutus
 the website is working if i manually type in the browser but not able to find it in navigation 
+9:08
+finally find out how to navigate it
+added a new column for the about us page to show in he navgation 
