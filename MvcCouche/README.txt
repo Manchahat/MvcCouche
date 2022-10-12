@@ -11,3 +11,16 @@ the website is working if i manually type in the browser but not able to find it
 9:08
 finally find out how to navigate it
 added a new column for the about us page to show in he navgation 
+
+creating a new class in th model file 
+took a long while for adding the data 
+i have added 7 properties in the couches file 
+
+Id
+Price
+Color
+Weight
+Height 
+Design and 
+Country Of Origin 
+
