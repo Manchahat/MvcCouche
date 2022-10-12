@@ -5,3 +5,4 @@ Produce a fictional company name to promote the product, note details of the obj
 to generate a product catalogue allowing for CRUD operations.
 
 test the application 
+Added  a new page in view called aboutus and connected it in the home controller . 
