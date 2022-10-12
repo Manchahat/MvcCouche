@@ -38,3 +38,9 @@ adding seed data
 took a long time writing the values 
 i have added 6 values in total fro each property 
 9:56
+
+I forgot to added Migration after completing the seed data ..
+added migration named Initial create 
+and updated the data base 
+
+Changed couple of things in the program for initializing the seed data 
