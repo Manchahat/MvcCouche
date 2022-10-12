@@ -47,3 +47,11 @@ Changed couple of things in the program for initializing the seed data
 rebuild the application 
 Checked the application by running it 
 while i m clicking on the MvcCouche Logo it doesnt show me any table created 
+
+Updated the database again 
+In the tutorial in the views , they said to change a 
+<a> tag and now my application is working 
+
+finally all the data is working 
+
+Updated the about us page for adding more details 
