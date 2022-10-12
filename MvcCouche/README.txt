@@ -25,3 +25,8 @@ Design and
 Country Of Origin 
 
 Added a new file in the MvcCoucheContext in data folder and made changes according to the tutorial 
+
+for the next step of registering the database context 
+the changes are by default added in the startup file . skipping this step 
+
+made a small change in the startup page for the cofiguration 
