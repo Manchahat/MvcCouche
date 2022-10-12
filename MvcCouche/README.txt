@@ -44,3 +44,6 @@ added migration named Initial create
 and updated the data base 
 
 Changed couple of things in the program for initializing the seed data 
+rebuild the application 
+Checked the application by running it 
+while i m clicking on the MvcCouche Logo it doesnt show me any table created 
