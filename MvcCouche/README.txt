@@ -33,3 +33,8 @@ made a small change in the startup page for the cofiguration
 added a connection in the app setting page 
 adding the scaffolding now 
 it took a while and finally completed it
+
+adding seed data 
+took a long time writing the values 
+i have added 6 values in total fro each property 
+9:56
