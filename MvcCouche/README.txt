@@ -55,3 +55,5 @@ In the tutorial in the views , they said to change a
 finally all the data is working 
 
 Updated the about us page for adding more details 
+
+added 4 new values from the website to all 10 values in it 
