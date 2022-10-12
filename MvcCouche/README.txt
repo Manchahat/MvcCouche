@@ -30,3 +30,4 @@ for the next step of registering the database context
 the changes are by default added in the startup file . skipping this step 
 
 made a small change in the startup page for the cofiguration 
+added a connection in the app setting page 
