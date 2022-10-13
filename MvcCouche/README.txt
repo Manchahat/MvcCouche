@@ -57,3 +57,7 @@ finally all the data is working
 Updated the about us page for adding more details 
 
 added 4 new values from the website to all 10 values in it 
+
+7:22 
+working on the style today 
+added colors to the about us page 
